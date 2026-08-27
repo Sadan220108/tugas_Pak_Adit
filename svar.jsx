@@ -1,23 +1,23 @@
 import { Stylesheet, Text, View } from "react-native";
 
 // soal 1
-export default function svar() {
-  //deklarasi variabel
-  const firstname = "Budi";
-  const lastname = "Santoso";
-  let isAktif = true;
+// export default function svar() {
+//   //deklarasi variabel
+//   const firstname = "Budi";
+//   const lastname = "Santoso";
+//   let isAktif = true;
 
-  const outputMessage = `Akun atas nama ${firstname} ${lastname} 
-        status aktif:${isAktif}`;
+//   const outputMessage = `Akun atas nama ${firstname} ${lastname} 
+//         status aktif:${isAktif}`;
 
-  console.log(outputMessage);
+//   console.log(outputMessage);
 
-  return (
-    <View>
-      <Text>{outputMessage}</Text>
-    </View>
-  );
-}
+//   return (
+//     <View>
+//       <Text>{outputMessage}</Text>
+//     </View>
+//   );
+// }
 
 // soal 2
 //   export default function svar(){
