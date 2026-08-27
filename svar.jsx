@@ -1,4 +1,4 @@
-import { Stylesheet, Text, View } from "react-native";
+// import { Stylesheet, Text, View } from "react-native";
 
 // soal 1
 // export default function svar() {
